@@ -1,2 +1,4 @@
 #+title:hugo-site
 Personal portfolio and blog website using Hugo and Org Mode
+
+Theme from modified version of [[https://github.com/nanxiaobei/hugo-paper][GitHub - nanxiaobei/hugo-paper: 🪺 A simple, clean, customizable Hugo theme]]

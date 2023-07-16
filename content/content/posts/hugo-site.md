@@ -1,4 +1,8 @@
 +++
+title = "Creating a personal website with ox-hugo"
+date = 2023-07-16T00:00:00-04:00
+lastmod = 2023-07-16T13:31:19-04:00
+tags = ["EMACS"]
 draft = false
 +++
 
@@ -13,11 +17,20 @@ This page is intended to be a living document documenting my process and keeping
 
 My main intent with this site is to share most of my `.org` files that aren't deemed too personal and to publish them here.
 
-Theme [Paper Demo](https://hugo-paper.vercel.app/) --  [Paper | Hugo Themes](https://themes.gohugo.io/themes/hugo-paper/)
+
+### Theme {#theme}
+
+Theme [Paper Demo](https://hugo-paper.vercel.app/) --  [Paper | Hugo Themes](https://themes.gohugo.io/themes/hugo-paper/)  [Github](https://github.com/nanxiaobei/hugo-paper)
+
+
+### Hosting {#hosting}
 
 Host on AWS
 
-End goal is basically this [Hugo Cisneros](https://hugocisneros.com/)
+
+## Inspiration {#inspiration}
+
+End goal is something like this [Hugo Cisneros](https://hugocisneros.com/)
 [My Org Roam Notes Workflow - Hugo Cisneros](https://hugocisneros.com/blog/my-org-roam-notes-workflow/)
 [Org-mode configuration for Emacs - Hugo Cisneros](https://hugocisneros.com/org-config/)
 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EMACS on Adrian Danao-Schroeder</title>
+    <link>http://adriandanao.com/tags/emacs/</link>
+    <description>Recent content in EMACS on Adrian Danao-Schroeder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 -0400</lastBuildDate><atom:link href="http://adriandanao.com/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a personal website with ox-hugo</title>
+      <link>http://adriandanao.com/content/posts/hugo-site/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 -0400</pubDate>
+      
+      <guid>http://adriandanao.com/content/posts/hugo-site/</guid>
+      <description>Background My old personal site was built on Jekyll back in university, once I started working I never updated it. Now that I&amp;rsquo;m using EMACS for everything in my life I want a way that I can easily share my thoughts with the world and have something public facing that is easy to keep updated. I&amp;rsquo;m aware that there are packages for Jekyll and EMACS but I want to start from a clean slate.</description>
+    </item>
+    
+  </channel>
+</rss>

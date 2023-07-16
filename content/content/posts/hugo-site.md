@@ -1,7 +1,7 @@
 +++
 title = "Creating a personal website with ox-hugo"
 date = 2023-07-16T00:00:00-04:00
-lastmod = 2023-07-16T13:31:19-04:00
+lastmod = 2023-07-16T14:13:09-04:00
 tags = ["EMACS"]
 draft = false
 +++
@@ -25,7 +25,9 @@ Theme [Paper Demo](https://hugo-paper.vercel.app/) --  [Paper | Hugo Themes](htt
 
 ### Hosting {#hosting}
 
-Host on AWS
+I've used AWS for projects in the past, so might as well use what I am already somewhat familiar with.
+
+[Host on AWS Amplify | Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-aws-amplify/)
 
 
 ## Inspiration {#inspiration}
